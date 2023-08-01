@@ -1,0 +1,32 @@
+.Head{display: flex;
+    justify-content: center;
+    margin-top:  2px;
+    height: 300px;
+    border-style: dotted;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuPURmy_7_XuQwBUtrOJMxQUAjoVB4pq68Ug&usqp=CAU);
+    background-repeat: no-repeat;
+background-size: 100% 200%
+;
+
+ }
+ .words{display: flex;
+    justify-content: center;
+    font-size: 50px;
+    font-family:herculanum;
+color: rgb(157, 156, 241);
+position: absolute;
+width: 100vw;
+text-align: center;
+letter-spacing: 0.4rem;
+margin: 200px;
+top:30px ;}
+
+.words2{font-size: 200px;
+    font-family:herculanum;
+color: rgb(157, 156, 241);vertical-align: text-bottom;
+}
+
+ .cards{display: flex;
+justify-content: center;
+margin: 50px;}
+.card{margin: 100px;}
